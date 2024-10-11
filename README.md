@@ -1,8 +1,6 @@
-Sure! Here's the updated README with **Lesson 02** about lights and **Lesson 03** about materials:
-
----
-
 # CoderDojo Port - Blender Course: Foundational Skills in 20 Lessons
+
+![Banner](https://www.blender.org/wp-content/uploads/2019/07/blender_render-1280x720.jpg?x12104)
 
 Welcome to the **Blender Beginner Course** repository! 🎉 This course is designed to introduce you to the powerful 3D modeling software, **Blender**, through 20 fun, practical lessons. Whether you’re new to 3D art or simply want to explore the creative possibilities of Blender, this course will guide you through the essential tools and techniques needed to get started.
 
